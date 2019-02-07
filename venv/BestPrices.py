@@ -1,6 +1,6 @@
 import re
 # fully load a sale page in TBS (expand all the load more options), right click on the page and save as html
-filename = "../Webpages/gifts.html"
+filename = "../Webpages/all sale.html"
 myFile = open(filename, "rb")
 
 # regex expressions to parse for
